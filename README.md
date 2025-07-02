@@ -1,0 +1,3 @@
+# CauTatic-database
+
+Пишу ридми
